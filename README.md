@@ -16,7 +16,7 @@ Most of what I build lives in private repositories, for customers and for [Built
 
 ## What I've shipped
 
-| | |
+| Where | What I did |
 |---|---|
 | **Bloomberg Tax** | Inherited a revenue-blocked SaaS product, re-architected it onto serverless **Aurora PostgreSQL**, won a 40-engineer competitive evaluation, and scaled it to hundreds of enterprise customers. |
 | **Built Correct** | Founded a custom-software company: business apps, customer portals, and a multi-tenant platform with paying customers across service businesses. |
