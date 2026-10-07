@@ -27,7 +27,7 @@ Most of what I build lives in private repositories, for customers and for [Built
 
 ## How I work
 
-- **Simple on purpose.** Explicit SQL, plain request paths, and code a teammate can follow from a button to a database row.
+- **Simple on purpose.** Overengineering is costly and dangerous.
 - **Correct before clever.** Money, permissions, and tenant boundaries get the most care, and every change gets used live before I call it done.
 - **Senior ownership.** I'll ask the uncomfortable question in the design review, and I own it when something breaks.
 
