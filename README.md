@@ -28,7 +28,7 @@ Most of what I build lives in private repositories, for customers and for [Built
 ## How I work
 
 - **Simple on purpose.** Overengineering is costly and dangerous.
-- **Correct before clever.** Money, permissions, and tenant boundaries get the most care, and every change gets used live before I call it done.
+- **Correct before clever.** The parts a business can't afford to get wrong get the most care, and I don't call anything done until it works.
 - **Senior ownership.** I'll ask the uncomfortable question in the design review, and I own it when something breaks.
 
 ## Toolbox
